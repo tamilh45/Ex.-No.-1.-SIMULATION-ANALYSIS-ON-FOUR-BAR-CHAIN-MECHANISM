@@ -56,8 +56,8 @@
 ![screenshot 2024-01-02 at 15 37 05_6b2998f2](https://github.com/tamilh45/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150312761/ef72278b-ab3a-412c-8986-95b0ab6691e0)
 
 
-### Name: TAMIL PAVALAN M
-### Register Number: 23013740
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
